@@ -75,7 +75,7 @@ Specializations:
 [<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
 
 ## 🗒️ Authors
-- Om Patel
+- Sompa Rani Das
 
 <p align="left">
   <a href="https://skillicons.dev">

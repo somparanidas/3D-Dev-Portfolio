@@ -133,41 +133,41 @@ const testimonials = [
 		id: 1,
 		testimonial:
 			"Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
-		name: "Om Patel",
+		name: "Sompa Rani Das",
 		image: "/socialmedia/behance.svg",
-		link: "https://www.behance.net/omthecreator",
+		link: "https://www.behance.net/somparanidas",
 	},
 	{
 		id: 2,
 		testimonial:
 			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
-		name: "Om Patel",
+		name: "Sompa Rani Das",
 		image: "/socialmedia/linkedin.svg",
-		link: "https://www.linkedin.com/in/om-patel-401068143/",
+		link: "https://www.linkedin.com/in/sompa-rani-das/",
 	},
 	{
 		id: 3,
 		testimonial:
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
-		name: "Om Patel",
+		name: "Sompa Rani Das",
 		image: "/socialmedia/dribble.svg",
-		link: "https://dribbble.com/om2121",
+		link: "https://dribbble.com/somparani",
 	},
 	{
 		id: 4,
 		testimonial:
 			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
-		name: "Om Patel",
+		name: "Sompa Rani Das",
 		image: "/socialmedia/portfolio.svg",
-		link: "https://omthecreator.netlify.app/",
+		link: "https://somparanidas.netlify.app/",
 	},
 	{
 		id: 5,
 		testimonial:
 			"Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
-		name: "Om Patel",
+		name: "Sompa Rani Das",
 		image: "/tech/github.webp",
-		link: "https://github.com/omunite215",
+		link: "https://github.com/somparanidas",
 	},
 ];
 

@@ -43,7 +43,7 @@ const Contact = () => {
         process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID!,
         {
           from_name: form.name,
-          to_name: "Om Patel",
+          to_name: "Sompa Rani Das",
           from_email: form.email,
           to_email: "omunite21@gmail.com",
           message: form.message,
