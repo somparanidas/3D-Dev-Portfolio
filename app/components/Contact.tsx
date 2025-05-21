@@ -69,14 +69,14 @@ const Contact = () => {
     <div className="xl:mt-12 xl:flex-row flex-col-reverse flex gap-10 overflow-hidden">
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
-        className="flex-[0.75] bg-black-100 p-8 rounded-2xl"
+        className="flex-[0.95] w-full max-w-3xl bg-black-100 p-12 rounded-3xl mx-auto"
       >
         <p className="heroSubText">Get in Touch</p>
         <h3 className="heroHeadText">Contact.</h3>
         <form
           ref={formRef}
           onSubmit={handleSubmit}
-          className="mt-12 flex flex-col gap-8"
+          className="mt-12 flex flex-col gap-10"
         >
           <label className="flex flex-col">
             <span className="text-white font-medium mb-4">Your Name.</span>
