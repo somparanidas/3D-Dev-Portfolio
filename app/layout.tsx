@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins as FontSans } from "next/font/google";
 import "@/app/styles/globals.css";
+import SEO from "@/app/components/SEO";
 
 const fontSans = FontSans({
 	subsets: ["latin"],
@@ -19,6 +20,9 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
+			<head>
+				<SEO />
+			</head>
 			<body className={fontSans.variable}>{children}</body>
 		</html>
 	);
