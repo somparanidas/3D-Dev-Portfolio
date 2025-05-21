@@ -41,7 +41,7 @@ const Navbar = () => {
 						window.scrollTo(0, 0);
 					}}
 				>
-					<Link href="https://github.com/omunite215">
+					<Link href="https://github.com/somparanidas">
 						<Image
 							src="/logo.png"
 							width={80}

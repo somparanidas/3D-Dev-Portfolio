@@ -79,12 +79,12 @@ Specializations:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
+    <a href="https://github.com/somparanidas">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
+  <img src="https://github.com/somparanidas/3D-Dev-Portfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
 </p>
