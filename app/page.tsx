@@ -1,7 +1,6 @@
 import {
 	About,
 	Contact,
-	Experience,
 	Feedbacks,
 	Hero,
 	Navbar,
@@ -18,7 +17,6 @@ export default function Home() {
 				<Hero />
 			</div>
 			<About />
-			<Experience />
 			<Tech />
 			<Works />
 			<Feedbacks />
