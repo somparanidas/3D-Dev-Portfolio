@@ -1,32 +1,57 @@
-# Project 3D - Portfolio
+# 3D Developer Portfolio 🚀
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/227708528-0e803ddf-506e-4d8b-98bc-dd7bf0f1b518.png" alt="Om's Logo Image"/>
-</p>
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
+A modern and interactive 3D portfolio website built with Next.js, Three.js, and Tailwind CSS. Features stunning 3D models, smooth animations, and a responsive design.
 
-Work done on it other than the tutorial:-
-- Removed unused CSS.
-- Removed Extra Animations.
-- Made UI Faster.
-- Added a Resume Button (Where you can put a link to your resume).
-- Enhanced Visibility and solved Responsive UI Problems.
+## ✨ Features
+
+- Interactive 3D models and animations
+- Responsive design that works on all devices
+- Modern UI with Tailwind CSS
+- Type-safe development with TypeScript
+- Server-side rendering with Next.js
+- Custom 3D models and animations
+- Contact form functionality
+- Resume download option
 
 This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
 
-## :star: Give A Star
+## 🚀 Getting Started
 
-You can also give this repository a star to show more people and they can use this repository.
+### Prerequisites
 
-# Getting Started
+- Node.js 18+ and npm/bun
+- Git
+- A modern web browser
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+### Installation
 
-Prerequisites
-Before you start, make sure you have the following software installed on your computer:
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/3D-Dev-Portfolio.git
+cd 3D-Dev-Portfolio
+```
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+2. Install dependencies:
+```bash
+bun install
+# or
+npm install
+```
+
+3. Start the development server:
+```bash
+bun dev
+# or
+npm run dev
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 
 ## ℹ️ How to use this Repository?
@@ -54,37 +79,25 @@ Before you start, make sure you have the following software installed on your co
 
 The website should now be up and running on http://localhost:3000.
 
-## 🏠 Built With:
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,react,nextjs,threejs,tailwind,netlify)](https://skillicons.dev)
+[![Built with Next.js](https://img.shields.io/badge/Built_with-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![Styled with Tailwind CSS](https://img.shields.io/badge/Styled_with-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
+[![Powered by Three.js](https://img.shields.io/badge/Powered_by-Three.js-black?style=flat-square&logo=three.js)](https://threejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![Bun](https://img.shields.io/badge/Bun-black?style=flat-square&logo=bun)](https://bun.sh)
 
-## 🛠 Skills
+## 📝 License
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs)](https://skillicons.dev)
+This project is open source and available under the [MIT License](LICENSE).
 
-## 🚀 About Me
-Specializations:
-- UI/UX Design.
-- Web Development
+## 🤝 Contributing
 
-## 🙋‍♂️ Connect With Me
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/3D-Dev-Portfolio/issues).
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
+## 📧 Contact
 
-## 🗒️ Authors
-- Sompa Rani Das
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <a href="https://github.com/somparanidas">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/somparanidas/3D-Dev-Portfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
-</p>
+Project Link: [https://github.com/yourusername/3D-Dev-Portfolio](https://github.com/yourusername/3D-Dev-Portfolio)
