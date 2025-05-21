@@ -34,7 +34,7 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Project_3DPortfolio.git
+  git clone https://github.com/somparanidas/Project_3DPortfolio.git
 
 ```
 2. Navigate to the project directory
