@@ -1,103 +1,115 @@
-# 3D Developer Portfolio 🚀
+# 🌟 3D Developer Portfolio
 
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-13-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-Latest-black?style=for-the-badge&logo=three.js)](https://threejs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Bun](https://img.shields.io/badge/Bun-Latest-black?style=for-the-badge&logo=bun)](https://bun.sh/)
 
-A modern and interactive 3D portfolio website built with Next.js, Three.js, and Tailwind CSS. Features stunning 3D models, smooth animations, and a responsive design.
+A stunning 3D developer portfolio built with modern web technologies, featuring interactive 3D elements, animations, and a responsive design.
 
 ## ✨ Features
 
-- Interactive 3D models and animations
-- Responsive design that works on all devices
-- Modern UI with Tailwind CSS
-- Type-safe development with TypeScript
-- Server-side rendering with Next.js
-- Custom 3D models and animations
-- Contact form functionality
-- Resume download option
+- 🎨 Interactive 3D elements powered by Three.js
+- 📱 Fully responsive design
+- ⚡ Lightning-fast performance with Next.js
+- 🎭 Smooth animations and transitions
+- 🌙 Modern UI with TailwindCSS
+- 📄 Downloadable resume functionality
+- 📧 Contact form integration
+- 🎯 SEO optimized
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+## 🛠️ Technologies Used
+
+- Next.js 13
+- TypeScript
+- Three.js
+- TailwindCSS
+- Framer Motion
+- Bun Package Manager
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ and npm/bun
+- Node.js 16+ or Bun installed on your machine
 - Git
-- A modern web browser
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/3D-Dev-Portfolio.git
+```
+
+2. Navigate to the project directory
+```bash
 cd 3D-Dev-Portfolio
 ```
 
-2. Install dependencies:
+3. Install dependencies
 ```bash
 bun install
 # or
 npm install
 ```
 
-3. Start the development server:
+4. Run the development server
 ```bash
 bun dev
 # or
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-
-## ℹ️ How to use this Repository?
-
-1. Clone the repository to your local machine
-
-```bash
-  git clone https://github.com/somparanidas/Project_3DPortfolio.git
+## 📁 Project Structure
 
 ```
-2. Navigate to the project directory
-
-```bash
-  cd Project_3DPortfolio
-```
-3. Install the necessary dependencies
-```bash
-  npm install
+app/
+├── components/       # React components
+├── canvas/          # Three.js 3D components
+├── constants/       # Configuration and constants
+├── styles/          # Global styles
+└── utils/           # Utility functions
 ```
 
-4. Start the development server
-```bash
-  npm run dev
-```
+## 🎨 Key Components
 
-The website should now be up and running on http://localhost:3000.
+- **Hero Section**: Features a 3D computer model with interactive elements
+- **About**: Professional summary and background
+- **Experience**: Work history with company logos
+- **Tech Stack**: Interactive 3D spheres showing technical skills
+- **Projects**: Showcase of development work
+- **Contact**: Contact form for professional inquiries
 
-## 🛠️ Tech Stack
+## 🌐 Deployment
 
-[![Built with Next.js](https://img.shields.io/badge/Built_with-Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org)
-[![Styled with Tailwind CSS](https://img.shields.io/badge/Styled_with-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
-[![Powered by Three.js](https://img.shields.io/badge/Powered_by-Three.js-black?style=flat-square&logo=three.js)](https://threejs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![Bun](https://img.shields.io/badge/Bun-black?style=flat-square&logo=bun)](https://bun.sh)
+This portfolio can be deployed on platforms like Vercel, Netlify, or any other hosting service that supports Next.js applications.
+
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/import/git?s=https://github.com/yourusername/3D-Dev-Portfolio)
+[![Deploy with Netlify](https://img.shields.io/badge/Deploy%20with-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/3D-Dev-Portfolio)
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/3D-Dev-Portfolio/issues).
 
-## 📧 Contact
+## 👨‍💻 Author
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name
+- LinkedIn: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
-Project Link: [https://github.com/yourusername/3D-Dev-Portfolio](https://github.com/yourusername/3D-Dev-Portfolio)
+## 🌟 Show your support
+
+Give a ⭐️ if you like this project!
+
+---
+
+<div align="center">
+Made with ❤️ using Next.js and Three.js
+</div>

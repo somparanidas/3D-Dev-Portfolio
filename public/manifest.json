@@ -1,0 +1,23 @@
+{
+  "name": "Sompa Rani Das | Creative 3D Developer Portfolio",
+  "short_name": "Sompa's Portfolio",
+  "description": "Creative 3D Developer specializing in immersive web experiences and modern UI/UX design.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2b5797",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
