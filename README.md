@@ -96,12 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/3D-Dev-Portfolio/issues).
 
-## 👨‍💻 Author
-
-Your Name
-- LinkedIn: [@yourlinkedin](https://linkedin.com/in/yourlinkedin)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
 ## 🌟 Show your support
 
 Give a ⭐️ if you like this project!
