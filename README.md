@@ -85,10 +85,8 @@ app/
 
 ## 🌐 Deployment
 
-This portfolio can be deployed on platforms like Vercel, Netlify, or any other hosting service that supports Next.js applications.
-
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/import/git?s=https://github.com/yourusername/3D-Dev-Portfolio)
-[![Deploy with Netlify](https://img.shields.io/badge/Deploy%20with-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/3D-Dev-Portfolio)
+This portfolio can be deployed on Netlify that supports Next.js applications.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06b47998-7a04-4c28-9572-684312958418/deploy-status)](https://app.netlify.com/projects/somparanidas/deploys)
 
 ## 📝 License
 
